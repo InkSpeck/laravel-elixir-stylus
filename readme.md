@@ -1,3 +1,11 @@
+## Installation
+
+From inside your laravel project directory
+
+```
+npm install laravel-elixir-stylus
+```
+
 ## Usage
 
 This is a simple wrapper around Laravel Elixir. Add it to your Elixir-enhanced Gulpfile, like so:
